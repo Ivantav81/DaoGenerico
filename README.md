@@ -1,3 +1,3 @@
 # DaoGenerico
-DaoGenerico
-Exemplo de  Dao genericoutilizando o hibernate maven e mysql.
+Dao Generico
+Utilizando o hibernate maven e mysql.
